@@ -2,7 +2,7 @@
 
 ## Live links
 - Leaflet Map https://adgnewsroom.github.io/2020homicides/
-- Google Sheets template https://docs.google.com/spreadsheets/d/10jiFVCgmIK0MxDUHJrhaMq4Vu9njnHp-JHZesGh9A2U/edit#gid=0
+- Google Sheets template https://docs.google.com/spreadsheets/d/151EaFCc4m0z08eic5L7VkrHUujDjwhJEiHc4zJ0tRqc/edit#gid=0
 
 ## Credits (and licenses)
 Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Trinity College CT, using a [Google Sheets](https://www.google.com/sheets/about/) template, with these open-source components:
